@@ -1,0 +1,29 @@
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Binaries for programs and plugins
+*.db
+*.egg
+*.egg-info
+*.pyc
+*.pyo
+*.txt
+
+# Caches and logs
+*.log
+logs
+*.cache
+*.swp
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore vendor directory if using modules
+/vendor/
+*.mod
+*.sum
